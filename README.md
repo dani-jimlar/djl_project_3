@@ -1,3 +1,4 @@
+[![CI](https://github.com/dani-jimlar/djl_project_3/actions/workflows/cicd.yml/badge.svg)](https://github.com/dani-jimlar/djl_project_3/actions/workflows/cicd.yml)
 # Individual Project 3: Databricks ETL Pipeline 
 This project performs ETL on Azure Databrickks for a dataset on pollution emissions in Mexico City during 2019. The dataset is stored in Delta Lake as a Delta Table. 
 
