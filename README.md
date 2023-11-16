@@ -9,7 +9,7 @@ The **TL_and_viz notebook** performs ETL operations with SparkSQL on this DeltaT
 
 
 ### Pipeline
-A workflow was generated 
-An automated trigger to initiate the pipeline.
-README.md: m.
+A workflow was generated to schedule the runs of this pipeline for every Thursday.
+<img width="1503" alt="Screenshot 2023-11-16 at 12 12 16 AM" src="https://github.com/dani-jimlar/djl_project_3/assets/143829673/525170ce-fa47-4d1d-a5dc-e38dd508616d">
+
 
